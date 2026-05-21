@@ -1,6 +1,18 @@
-# Variance-analysis
+# FMCG Sales Variance Analysis Dashboard
+---
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Business Problem](#business-problem)
+3. [Objective](#objective)
+4. [Tools Used](#tools-used)
+5. [Process](#process)
+6. [Key Insights](#key-insights)
+7. [Recommendations](#recommendations)
+8. [Live Dashboard](#link-to-live-dashboard)
+9. [Connect With Me](#connect-with-me)
 
-## Description
+
+## Project Overview
 This project is a Power BI sales variance and forecasting dashboard developed for AlphaNext, a Nigerian FMCG company. The dashboard analyzes sales performance against targets across four sales territories in 2024. It provides insights into salesperson performance, monthly sales trends, variance analysis, and future sales forecasting to support strategic business decisions.
 
 The analysis revealed that the organization exceeded its annual sales target by ₦46.6M (+1.72%), while also uncovering hidden volatility, regional disparities, and seasonal performance fluctuations that impact long-term revenue stability. The solution combines descriptive analytics, variance analysis, trend monitoring, and forecasting to help leadership optimize planning, improve sales execution, and drive data-informed business decisions.
